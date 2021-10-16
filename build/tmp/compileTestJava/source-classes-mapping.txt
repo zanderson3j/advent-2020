@@ -1,4 +1,0 @@
-Day1Tests.java
- Day1Tests
-Day2Tests.java
- Day2Tests
