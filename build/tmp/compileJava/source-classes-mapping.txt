@@ -1,8 +1,0 @@
-Day2.java
- Day2
-PasswordAndPolicy.java
- PasswordAndPolicy
-Day1.java
- Day1
-Day3.java
- Day3
