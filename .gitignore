@@ -1,0 +1,14 @@
+# Gradle generated files
+bin/
+gen/
+
+# Ignore Intellij project files and idea directory
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle related files and caches
+.gradletasknamecache
+.gradle/
+build/
