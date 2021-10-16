@@ -7,5 +7,4 @@ public class Day1 {
                 .filter(it -> expenseEntries.contains(2020 - it))
                 .reduce(1, (a, b) -> a * b);
     }
-
 }
